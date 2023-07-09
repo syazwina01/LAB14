@@ -10,7 +10,7 @@ import Part3.model.Customer;
  * The method displayCustomers() will be invoked by client, TCPCustomersClientApp
  * to display the customer list.
  * 
- * @author Ng Wei Hen
+ * @author Syazwina
  */
 
 public class CustomerViewer {

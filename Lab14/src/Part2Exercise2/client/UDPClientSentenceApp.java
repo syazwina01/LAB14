@@ -13,7 +13,7 @@ import java.util.Scanner;
  * in a sentence input from the user.
  * 
  * 
- * @author Ng Wei Hen
+ * @author Syazwina
  */
 public class UDPClientSentenceApp {
 

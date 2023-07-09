@@ -16,7 +16,7 @@ import Part3.model.Customer;
  * The application will also receive a customer information based on
  * customer's name sent from the server.
  * 
- * @author Ng Wei Hen
+ * @author Syazwina
  *
  */
 public class TCPCustomerClientApp {

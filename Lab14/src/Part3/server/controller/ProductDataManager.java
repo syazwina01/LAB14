@@ -8,7 +8,7 @@ import Part3.model.Product;
 /**
  * This class manage product data
  * 
- * @author emalianakasmuri
+ * @author Syazwina
  *
  */
 public class ProductDataManager {

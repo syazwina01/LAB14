@@ -6,7 +6,7 @@ import java.io.Serializable;
  * Lab Week 14 Part 3 Exercise 2
  * This class represent a customer.
  * 
- * @author Ng Wei Hen
+ * @author Syazwina
  */
 public class Customer implements Serializable{
 

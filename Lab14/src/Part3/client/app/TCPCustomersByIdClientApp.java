@@ -15,7 +15,7 @@ import Part3.model.Customer;
  * This TCP client class will send several customer id to the server.
  * The application will also receive a customer object from the server.
  * 
- * @author Ng Wei Hen
+ * @author Syazwina
  *
  */
 public class TCPCustomersByIdClientApp {

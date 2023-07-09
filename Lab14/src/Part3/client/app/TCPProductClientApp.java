@@ -13,7 +13,7 @@ import Part3.model.Product;
  * This is a TCP client class that process primitive (product id) and complex
  * (Product) data using different streams.
  * 
- * @author emalianakasmuri
+ * @author Syazwina
  *
  */
 public class TCPProductClientApp {

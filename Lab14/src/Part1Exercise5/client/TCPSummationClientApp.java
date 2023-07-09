@@ -13,7 +13,7 @@ import java.util.Scanner;
  * This class is to send 3 numbers to the server 
  * and received two results (sum and product) from the server
  * 
- * @author: Ng Wei Hen
+ * @author: Syazwina
  */
 public class TCPSummationClientApp {
 

@@ -15,7 +15,7 @@ import Part2Exercise2.controller.SentenceTextProcessor;
  * 
  * Then it will send the results back to the client.
  * 
- * @author Ng Wei Hen
+ * @author Syazwina
  * 
  */
 public class UDPServerSentenceApp {

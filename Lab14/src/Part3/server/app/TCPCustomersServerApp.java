@@ -15,7 +15,7 @@ import Part3.server.controller.CustomerDataManager;
  * Lab Week 14 Part 3 Exercise 9
  * This TCP server class will return a list of customers to the client.
  * 
- * @author Ng Wei Hen
+ * @author Syazwina
  */
 
 public class TCPCustomersServerApp {

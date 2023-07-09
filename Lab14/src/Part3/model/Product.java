@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * This class represents a Product
  * 
- * @author emalianakasmuri
+ * @author Syazwina
  *
  */
 public class Product implements Serializable {

@@ -8,7 +8,7 @@ import java.util.Set;
  * This class is used to count number of vowels, consonants and punctuation
  * in a sentence received from client.
  * 
- * @author Ng Wei Hen
+ * @author Syazwina
  */
 
 public class SentenceTextProcessor {

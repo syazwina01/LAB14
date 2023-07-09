@@ -15,7 +15,7 @@ import Part1Exercise5.controller.ThreeNumberCalculator;
  * This class is to compute the summation 
  * and the multiplication of 3 numbers received from the client.
  * 
- * @author: Ng Wei Hen
+ * @author: Syazwina
  * 
  */
 public class TCPSummationServerApp {

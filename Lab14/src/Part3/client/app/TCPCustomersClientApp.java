@@ -12,7 +12,7 @@ import Part3.model.Customer;
 /**
  * Lab Week 14 Part 3 Exercise 10
  * This is a TCP client class will receive a list of customers from the server.
- * @author Ng Wei Hen
+ * @author Syazwina
  *
  */
 public class TCPCustomersClientApp {

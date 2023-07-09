@@ -19,7 +19,7 @@ import Part3.server.controller.CustomerDataManager;
  * The server will find the customer based on the name and 
  * return a customer object to the client.
  * 
- * @author Ng Wei Hen
+ * @author Syazwina
  */
 public class TCPCustomerServerApp implements Serializable{
 

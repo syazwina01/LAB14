@@ -4,7 +4,7 @@ package Part1Exercise5.controller;
  * Lab Week 14 Part 1 Exercise 5
  * This class is used for arithmetic calculation.
  * 
- * @author: Ng Wei Hen
+ * @author: Syazwina
  * 
  */
 public class ThreeNumberCalculator {
